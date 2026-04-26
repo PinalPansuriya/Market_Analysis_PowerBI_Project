@@ -27,5 +27,4 @@ This Power BI dashboard analyzes advertising performance across Facebook, Google
 ## Key Insight
 Google drives the majority of revenue, while Facebook and TikTok contribute more to engagement and awareness.
 
-## Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+
