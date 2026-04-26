@@ -1,7 +1,9 @@
 # Cross-Channel Advertising Performance Dashboard
 
 ## Project Overview
-This Power BI dashboard analyzes advertising performance across Facebook, Google, and TikTok. It helps understand campaign effectiveness and compare performance across platforms.
+This project focuses on analyzing cross-channel digital marketing performance using Power BI. The dashboard enables comparison of campaign effectiveness across Facebook, Google, and TikTok by tracking key KPIs such as spend, clicks, conversions, revenue, and ROAS.
+
+The goal is to help businesses identify high-performing platforms and optimize marketing budget allocation based on data-driven insights.
 
 ## Tools Used
 - Power BI
@@ -26,5 +28,11 @@ This Power BI dashboard analyzes advertising performance across Facebook, Google
 
 ## Key Insight
 Google drives the majority of revenue, while Facebook and TikTok contribute more to engagement and awareness.
+
+## Business Value
+- Identifies which platform drives the highest revenue
+- Helps optimize ad spend allocation
+- Improves marketing decision-making using data insights
+- Tracks campaign performance trends over time
 
 
